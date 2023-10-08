@@ -5,7 +5,7 @@ We present the development of an interactive web application designed to allow t
 
 ## Usefull links
 - Web Aplication: https://6522f7df47086d6550413d99--solariswebapp.netlify.app/
-- Jupyter Notebook in Binder:  
+- Jupyter Notebook in Binder:  https://mybinder.org/v2/gh/TheSkyLabTeam/Solaris.git/main
 
 ## Introduction
 The interplanetary magnetic field is a fundamental piece of space physics, playing a critical role in the interaction between the solar wind and the planets of the solar system, particularly for the life in our Earth planet. Understanding the characteristics and dynamics of this field is essential to advance our knowledge of space physics and predict solar events that may affect Earth and other space missions.
