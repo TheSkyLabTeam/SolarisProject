@@ -1,7 +1,7 @@
 # Solaris
 
 ## About this repository
-We present the development of an interactive web application designed to allow the general public to explore and analyze multiple variables related to the interplanetary magnetic field and its components. The application was developed as part of a NASA challenge and is accompanied by code in \textsc{Jupyter Notebook} with \textsc{Python} that incorporates wavelet transforms for more detailed analysis. In this article, we describe the methodology used in the development of the web application, as well as the results obtained through its implementation.
+We present the development of an interactive web application designed to allow the general public to explore and analyze multiple variables related to the interplanetary magnetic field and its components. The application was developed as part of a NASA challenge and is accompanied by code in {Jupyter Notebook} with Python that incorporates wavelet transforms for more detailed analysis. In this article, we describe the methodology used in the development of the web application, as well as the results obtained through its implementation.
 
 ## Usefull links
 - Web Aplication: 
@@ -9,7 +9,7 @@ We present the development of an interactive web application designed to allow t
 ## Introduction
 The interplanetary magnetic field is a fundamental piece of space physics, playing a critical role in the interaction between the solar wind and the planets of the solar system, particularly for the life in our Earth planet. Understanding the characteristics and dynamics of this field is essential to advance our knowledge of space physics and predict solar events that may affect Earth and other space missions.
 
-Magnetic reconnection \cite{priest1984magnetic, schwenn2013physics} in the context of the Sun refers to the process in which magnetic field lines in the solar atmosphere, especially in the solar corona, change their configuration. This occurs when initially separated magnetic field lines approach and join together. When these lines reconnect, they release a large amount of energy in the form of solar flares and coronal mass ejections (CMEs).
+Magnetic reconnection priest1984magnetic, schwenn2013physics in the context of the Sun refers to the process in which magnetic field lines in the solar atmosphere, especially in the solar corona, change their configuration. This occurs when initially separated magnetic field lines approach and join together. When these lines reconnect, they release a large amount of energy in the form of solar flares and coronal mass ejections (CMEs).
 
 In the Sun, magnetic reconnection is a significant cause of explosive solar events. During reconnection, the stored magnetic energy is converted into thermal and kinetic energy, resulting in solar flares that can affect communications on Earth and satellite navigation systems, among other things. It can also lead to coronal mass ejections, which are massive ejections of solar material into space, and when these CMEs impact Earth, they can disrupt conditions in the Earth's magnetosphere and cause geomagnetic storms.
 
