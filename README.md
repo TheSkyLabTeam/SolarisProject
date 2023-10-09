@@ -4,7 +4,7 @@
 We present the development of an interactive web application designed to allow the general public to explore and analyze multiple variables related to the interplanetary magnetic field and its components. The application was developed as part of a NASA challenge and is accompanied by code in {Jupyter Notebook} with Python that incorporates wavelet transforms for more detailed analysis. In this article, we describe the methodology used in the development of the web application, as well as the results obtained through its implementation.
 
 ## Usefull links
-- Web Aplication: https://6522f7df47086d6550413d99--solariswebapp.netlify.app/
+- Web Aplication: https://solariswebapp.netlify.app
 - Jupyter Notebook in Binder:  https://mybinder.org/v2/gh/TheSkyLabTeam/Solaris.git/main
 
 ## Introduction
